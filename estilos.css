@@ -1,0 +1,38 @@
+header{
+    display:flex;
+    height: 70px;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+}
+
+.logo{
+    display:flex;
+    align-items: center;
+}
+
+.logo img{
+    height: 70px;
+    margin-right: 10px;
+}
+
+.parrafo{
+    display: flex;
+    align-items: center;
+}
+
+h2
+{
+    text-align: center;
+    color: darkblue;
+    font-size: 35px;
+    font-family: 'Calibri', 'sans-serif';
+}
+
+nav a
+{
+    font-weight: 600;
+    color: black;
+    padding-right: 60px;
+}
