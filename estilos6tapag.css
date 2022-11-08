@@ -1,0 +1,38 @@
+body
+{
+    background: cornflowerblue;
+}
+
+.section
+{
+    text-align: center;
+}
+
+h1
+{
+    color: darkblue;
+}
+
+p{
+    font-weight: bold;
+}
+
+footer{
+    display:flex;
+    height: 80px;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px;
+}
+
+nav a{
+    font-weight: 600;
+    padding-left: 60px;
+    color: white;
+}
+
+.phone{
+    display: flex;
+    justify-content: center;
+}
