@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1. 0">
+  <title>Ezparking</title>
+  <link rel="stylesheet" href="estilos(EzParking).css">
+</head>
+
+<body>
+<div class="section">
+  <h1>Descarga lo mejor</h1>
+  <p>No pierdas más el tiempo y consigue EzParking de una vez. Disfruta
+    <br>de los beneficios que te ofrece y mejora tu rutina.</p>
+  <img src="Google Play.jpg" alt="app" width="239" height="72">
+  <img src="Apple Store.jpg" alt="app2" width="239" height="72">
+</div>
+
+<div class="phone">
+  <img src="Celular EzParking(2).jpg">
+</div>
+
+<footer class="pie-pagina">
+  <nav>
+    <a href="" target="_blank" class="nav-link">Inicio</a>
+    <a href="https://www.youtube.com/watch?v=iIWoYaJRryw" target="_blank" class="nav-link">Cómo Funciona</a>
+    <a href="https://www.youtube.com/watch?v=iIWoYaJRryw" target="_blank" class="nav-link">Nosotros</a>
+    <a href="https://www.youtube.com/watch?v=iIWoYaJRryw" target="_blank" class="nav-link">Caracterísitcas</a>
+    <a href="https://www.youtube.com/watch?v=iIWoYaJRryw" target="_blank" class="nav-link">Opiniones</a>
+  </nav>
+  <div>
+    <img src="Google Play.jpg" alt="app" width="120" height="36">
+    <img src="Apple Store.jpg" alt="app2" width="120" height="36">
+  </div>
+</footer>
+
+</body>
+
+</html>
