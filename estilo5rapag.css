@@ -1,0 +1,52 @@
+h1, h3{
+    text-align: center;
+    color: darkblue;
+}
+
+p{
+    color: #0077B6;
+}
+
+.seccion1{
+    position: relative;
+    text-align: center;
+    display: flex;
+    width: 300px;
+    left: -100px;
+    margin: 10%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid gray;
+    border-radius: 20px;
+}
+
+.seccion2{
+    position: relative;
+    text-align: center;
+    display: flex;
+    margin: 10%;
+    top: -470px;
+    left: 360px;
+    width: 300px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 3px solid gray;
+    border-radius: 20px;
+}
+
+.seccion3{
+    position: relative;
+    text-align: center;
+    display: flex;
+    margin: 10%;
+    top: -950px;
+    left: 800px;
+    width: 300px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid gray;
+    border-radius: 20px;
+}
