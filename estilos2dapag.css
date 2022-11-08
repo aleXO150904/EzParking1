@@ -1,0 +1,42 @@
+.contenedor
+{
+    background: #3b3e39;
+    position: relative;
+    left: -200px;
+    height: 330px;
+    width: 450px;
+    margin: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contenedor2
+{
+    background: #3b3e39;
+    position: relative;
+    left: 400px;
+    top: -800px;
+    height: 700px;
+    width: 450px;
+    margin: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1, h2{
+    color: white;
+}
+
+p{
+    color: cyan;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.fondo {
+    background-image: url("/Cómo Funciona/Estacionamiento.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
